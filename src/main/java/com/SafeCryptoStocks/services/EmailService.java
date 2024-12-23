@@ -81,7 +81,7 @@ public class EmailService {
                 "<p style='font-size: 16px; color: #333;'>Congratulations! Your registration to <strong style='color: #4CAF50;'>SafeCryptoStocks</strong> was successful. We are thrilled to have you on board and can't wait for you to begin your journey with us.</p>" +
                 "<p style='font-size: 16px; color: #333;'>Now you have access to a world of secure crypto trading, tracking, and management tools. Explore our platform and start making smarter investments today!</p>" +
                 "<div style='text-align: center; margin-top: 20px;'>" +
-                "<a href='http://localhost:8080/dashboard' style='font-size: 16px; background-color: #4CAF50; color: #fff; padding: 12px 25px; text-decoration: none; border-radius: 5px;'>" +
+                "<a href='http://localhost:9094/dashboard' style='font-size: 16px; background-color: #4CAF50; color: #fff; padding: 12px 25px; text-decoration: none; border-radius: 5px;'>" +
                 "Start Exploring Now" +
                 "</a>" +
                 "</div>" +
